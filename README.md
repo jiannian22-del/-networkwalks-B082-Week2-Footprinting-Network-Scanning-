@@ -1,3 +1,6 @@
+# Footprinting & Network Scanning | Penetration Testing Report
+
+Practical footprinting, reconnaissance, and network scanning report using Kali Linux tools (WHOIS, WhatWeb, Nslookup, Curl, Wafw00f, DNSRecon) and Zenmap for host discovery and network topology mapping.
 <p align="center">
   <img src="[https://img.shields.io/badge/Penetration%20Testing-Report-blue?style=for-the-badge&logo=shield](https://img.shields.io/badge/Penetration%20Testing-Report-blue?style=for-the-badge&logo=shield)" alt="Pentest Report">
   <img src="[https://img.shields.io/badge/Modules-W2--PM1%20%7C%20W2--PM5-orange?style=for-the-badge](https://img.shields.io/badge/Modules-W2--PM1%20%7C%20W2--PM5-orange?style=for-the-badge)" alt="Modules">
